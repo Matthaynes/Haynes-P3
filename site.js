@@ -37,7 +37,7 @@ const vue_app = Vue.createApp({
          title :
           "IMDB + Matthew's Top 8 Movies",
       owner : "Matthew",
-         github : "https://ww.github.com/mjslee/is219lee-p3",
+         github : "https://github.com/Matthaynes/Haynes-P3",
           
       }
     },
