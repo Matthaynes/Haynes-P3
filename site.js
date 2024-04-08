@@ -83,8 +83,15 @@ case 7:
                         default:
           }
 return dateArray[1] +" " + dateArray[2] +", "+ dateArray[0];
-      }
+      },
+posterClick(index){
+      const movie = this.movies[index];
+      const numPosters = movie.posters.length;
+      movie.posterindex = (movie.posterindex + 1) % numPosters;
 }
-})
+
+      
+}
+});
 
 vue_app.mount("#vue_app")
