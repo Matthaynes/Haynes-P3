@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Who's Afraid of Virginia Woolf?",
+            "iscore": 9.9,
+            "rating": "NR",
+            "runtime": 131,
+            "released": [1966, 6, 22],
+            "country": "USA",
+            "posters": ["img/virginiawoolf.jpg", "img/virginia.webp"],
+            "imdb": "https://www.imdb.com/title/tt0061184/",
+            "website": "https://edwardalbeesociety.org/works/whos-afraid-of-virginia-woolf/",
+            "likes": 802,
+            "dislikes": 15,
+            "posterindex": 0
+      },
+      {
+            "title": "Forrest Gump",
+            "iscore": 9.7,
+            "rating": "PG-13",
+            "runtime": 142,
+            "released": [1994, 7, 6],
+            "country": "USA",
+            "posters": ["img/gump.jpg", "img/forrest.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0109830/",
+            "website": "https://www.paramountpictures.com/movies/forrest-gump",
+            "likes": 1202,
+            "dislikes": 80,
+            "posterindex": 0
+      },
+      {
+            "title": "Iron Man 1",
+            "iscore": 9.7,
+            "rating": "PG-13",
+            "runtime": 126,
+            "released": [2008, 5, 2],
+            "country": "USA",
+            "posters": ["img/iron.jpg", "img/iron2.webp"],
+            "imdb": "https://www.imdb.com/title/tt0371746/",
+            "website": "https://www.paramountpictures.com/movies/iron-man/",
+            "likes": 1522,
+            "dislikes": 21,
+            "posterindex": 0
       }
 ]
